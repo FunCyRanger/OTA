@@ -31,6 +31,6 @@ jobs:
           jekyll_cfg: '_config.yml'
           jekyll_baseurl: ''
           bundler_ver: '>=0'
-          cname: 'funcyranger.github.io/OTA/'
+          cname: 'FunCyRanger.github.io'
           actor: ''
           pre_build_commands: ''
