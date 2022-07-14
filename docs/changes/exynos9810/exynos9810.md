@@ -1,3 +1,6 @@
+## 2022-07-12
+- Just updated to latest lineageOS
+
 ## 2022-04-12
 - Fixed BT audio issues in call and media - for real now
 
