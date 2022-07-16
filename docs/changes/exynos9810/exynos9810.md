@@ -1,5 +1,6 @@
 ## 2022-07-12
-- Just updated to latest lineageOS
+- BECAREFUL: THIS IS A PRIVATE BUILD WITHOUT CERTIFICATE AND NOT COMPATIBLE TO EXYNOOBS-ROM. I JUST USE THE SOURCES FROM IT. THANK YOU TO THE COMMUNITY.
+- 20220412-EXYNOOBS and updated to latest lineageOS
 
 ## 2022-04-12
 - Fixed BT audio issues in call and media - for real now
