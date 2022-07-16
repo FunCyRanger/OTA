@@ -1,35 +1,7 @@
-## 2022-07-12
-- BECAREFUL: THIS IS A PRIVATE BUILD WITHOUT CERTIFICATE AND NOT COMPATIBLE TO EXYNOOBS-ROM. I JUST USE THE SOURCES FROM IT. THANK YOU TO THE COMMUNITY.
+BECAREFUL: THIS IS A PRIVATE BUILD WITHOUT ANY CERTIFICATE, NO GARANTY AND NOT COMPATIBLE TO EXYNOOBS-ROM. I JUST USE THE SOURCES FROM IT. THANK YOU TO THE COMMUNITY.
+
+## 2022-07-16
 - 20220412-EXYNOOBS and updated to latest lineageOS
 
-## 2022-04-12
-- Fixed BT audio issues in call and media - for real now
-
-## 2022-04-11
-- Switched back to prebuilt libbt-vendor - fixes bluetooth issues
-- Applied a proper fix for google maps, which doesn't use kernel hacks 
-- Some more sepolicy updates
-- Updated some permissions
-- Disabled AudioFX
-- Removed redundant overlays
-- Fixed Screen record with device audio - Thanks Rob
-- Fixed vulkan - Thanks Rob
-- Fixed USB audio - Thanks Rob
-
-## 2022-04-02
-**NOTE: IF FLASHING GOOGLE APPS, DO NOT SET UP NETWORK OR SECURITY OR ACCOUNT ON FIRST BOOT. SKIP EVERYTHING AND THEN SET UP THE ACCOUNT WHEN YOU GET PAST SETUP. THIS IS AS WELL NOT ISSUE ON OUR SIDE.**
-
-**NOTE2: IF YOU FLASHED ANY THIRD PARTY PACKAGES (GAPPS etc.) YOU NEED TO REFLASH THEM AGAIN, BECAUSE ADDON.D WILL NOT WORK! IF YOU STILL HAVE ISSUES, DO A CLEAN FLASH.)**
-- Updated to lineage-19.1
-- Dual sim is fixed
-- Added Dolby/SamsungDAP
-- Switched to samsung USB hal 1.3
-- Bunch of other things, check github repo
-
-## 2022-02-19
-- Fixed issues with front cam
-- Added pixel AIDL power hal
-- Added support for star2lte and crownlte
-
-## 2022-02-17
-- Initial lineage-19 release
+## 2022-07-12
+- 20220412-EXYNOOBS and updated to latest lineageOS
