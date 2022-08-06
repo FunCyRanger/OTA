@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1657639658",
-      "filename": "lineage-19.1-20220716-UNOFFICIAL-star2lte.zip",
-      "id": "bc0beeaba5dac420e3e350e3da829436dfdbbb1259f0f4927b440484805825e1",
+      "datetime": "1659776046",
+      "filename": "lineage-19.1-20220806-UNOFFICIAL-star2lte.zip",
+      "id": "027b2a745542011d780eb07421ca7466bc6e50cf28f55f3282ac05a5d21731df",
       "romtype": "UNOFFICIAL",
-      "size": "777967964",
-      "url": "https://github.com/FunCyRanger/OTA/releases/download/star2lte-20220716/lineage-19.1-20220716-UNOFFICIAL-star2lte.zip",
+      "size": "778179825",
+      "url": "https://github.com/FunCyRanger/OTA/releases/download/star2lte-20220806/lineage-19.1-20220806-UNOFFICIAL-star2lte.zip",
       "version": "19.1"
     }
   ]
