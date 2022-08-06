@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Changelog for Samsung Galaxy s9
-codename: starlte
+title: Changelog for Xiaomi Mi9T
+codename: davinci
 ---
 
 {% include changelog.md %}
