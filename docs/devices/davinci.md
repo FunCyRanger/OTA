@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Xiaomi Mi9T
-codename: davinvi
+codename: davinci
 ---
 
 {% include deviceinfo.md %}
