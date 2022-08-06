@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Samsung Galaxy S9
-codename: starlte
+title: Xiaomi Mi9T
+codename: davinvi
 ---
 
 {% include deviceinfo.md %}
