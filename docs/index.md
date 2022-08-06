@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LineageOS builds by Exynoobs
+title: LineageOS based on Exynoobs
 ---
 
 # Supported devices
