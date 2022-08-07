@@ -6,4 +6,4 @@ codename: davinci
 
 {% include changelog.md %}
 
-{% include_relative exynos9810/exynos9810.md %}
+{% include_relative SM7150/SM7150.md %}
