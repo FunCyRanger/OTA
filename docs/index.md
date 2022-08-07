@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LineageOS based on Exynoobs
+title: FunCy >> LineageOS
 ---
 
 # Supported devices
