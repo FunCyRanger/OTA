@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1649797709",
-      "filename": "lineage-19.1-20220412-UNOFFICIAL-starlte.zip",
-      "id": "2fa47c204f527b4f276725050afc33d75428bfb68367392fa685212bea845975",
+      "datetime": "1659820522",
+      "filename": "lineage-19.1-20220807-UNOFFICIAL-davinci.zip",
+      "id": "dee8af40ad0222ee186a2a227cb3dba6c6d00b232a88c6fa227b3a90ae2967a9",
       "romtype": "UNOFFICIAL",
-      "size": "812507220",
-      "url": "https://github.com/Exynoobs/OTA/releases/download/starlte-20220412/lineage-19.1-20220412-UNOFFICIAL-starlte.zip",
+      "size": "1085111606",
+      "url": "https://github.com/FunCyRanger/OTA/releases/download/davinci-20220807/lineage-19.1-20220807-UNOFFICIAL-davinci.zip",
       "version": "19.1"
     }
   ]
